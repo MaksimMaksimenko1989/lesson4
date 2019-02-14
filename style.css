@@ -1,0 +1,23 @@
+.body{
+    background: url(grass.jpg) no-repeat;
+    background-size: cover;
+}
+.dog{
+position: absolute; 
+top: 550px;
+left: 800px;
+}
+
+.img{
+    position: absolute;
+    }
+    .car{
+        position: absolute; 
+        top: 600px;
+        left: 100px;
+    }
+.sky{
+    position: absolute;
+    top: 0px;
+    left: 300px;
+}
