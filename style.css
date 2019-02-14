@@ -4,20 +4,28 @@
 }
 .dog{
 position: absolute; 
-top: 550px;
-left: 800px;
+bottom: 18px;
+right: 10px;
 }
 
 .img{
     position: absolute;
     }
-    .car{
+.car{
         position: absolute; 
         top: 600px;
-        left: 100px;
     }
 .sky{
     position: absolute;
-    top: 0px;
-    left: 300px;
+    top: 10px;
+    left: 375px;
+}
+.hause{
+    position: absolute;
+    top: 305px;
+}
+.housedog{
+    position: absolute;
+    top: 550px;
+    right: 10px;
 }
